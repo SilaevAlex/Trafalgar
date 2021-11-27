@@ -75,6 +75,12 @@ a::before {
 
 /* hero */
 
+.hero {
+    background-image: url(/image/element.svg);
+    background-repeat: no-repeat;
+    background-position: top  left -50px;
+}
+
 .hero > div {
     gap: 109px;
 }
