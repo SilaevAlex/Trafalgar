@@ -1,4 +1,22 @@
 
+button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    /* отображаем курсор в виде руки при наведении; некоторые
+    считают, что необходимо оставлять стрелочный вид для кнопок */
+    cursor: pointer;
+  }
+
+
+
+
+
+
+
+
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
