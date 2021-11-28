@@ -547,7 +547,7 @@ a::before {
 /* footer */
 
 .footer-container {
-    width: 1600px;
+    /* width: 1600px; */
     margin-left: auto;
     margin-right: auto;
     padding: 118px 190px;
@@ -562,6 +562,7 @@ a::before {
 
 .footer-container > section nav {
     width: 391px;
+    
 }
 
 .footer-container section h2 {
